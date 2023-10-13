@@ -21,6 +21,9 @@
 ## 平均年龄
 ![平均年龄](https://github.com/Wflbb444/ds/assets/144678267/edd2f80a-1178-4d44-be85-a164f937940d)
 
+## 倒序排
+![倒序](https://github.com/Wflbb444/ds/assets/144678267/bc1e1141-65a3-4d32-8795-19aa77059727)
+
 ## 外键
 ![外键](https://github.com/Wflbb444/ds/assets/144678267/02390efb-20b4-4c67-9910-eaaee3738169)
 
